@@ -12,3 +12,5 @@ This app uses Node.js and MySQL to create three user interfaces for a simulated 
 ### Called by:  Running 'node bamazonCustomer.js' in the terminal.
 
 ### Description: The Bamazon Customer view logs all of the available items for purchase to the terminal and then asks the user what product ID they would like to purchase using an inquirer prompt.  Next it asks how many units they would like to purchase.  Then it displays the total cost of their purchase and updates the products table in the bamazon MySQL database  by removing the stock that was purchased and adding the total sale to the product sales.
+
+re
