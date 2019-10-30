@@ -1,11 +1,13 @@
-#   View of Functionality:
+#   Technologies Used:  
+MySQL, Javascript, Node.js (node packages: MySQL, Inquirer, Cli-Table)
+
+#   Brennen's Role in Development: 
+All
+
+#   Video of Functionality:
 
 #   Application Purpose: 
 This app uses Node.js and MySQL to create three user interfaces for a simulated store including warehouse quantities and profit.
-
-#   Technologies Used:  MySQL, Javascript, Node.js (node packages: MySQL, Inquirer, Cli-Table)
-
-#   Brennen's Role in Development: All
 
 ## User Interface 1: Bamazon Customer 
 
