@@ -44,8 +44,7 @@ Create New Department
 
 View Product Sales by Department utilizes a SQL Select statement that uses the group by command and an inner join to combine the departments and product tables to provide a concise table view of total profit by department.  This table is logged to the console using the Cli-Table node.js package.  Example:
 
-![GitHub Logo](/images/table.JPG)
-Format: ![Alt Text](url)
+![Table Image](/images/table.JPG)
 
 
 Create New Department uses a SQL query to add a new department row to the departments table.
