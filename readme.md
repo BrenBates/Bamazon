@@ -24,11 +24,7 @@ The Bamazon Customer view logs all of the available items for purchase to the te
 ### Description:  
 The Bamazon Manager view starts by displaying a menu that contains the following items: 
 
-View Products for Sale
-View Low Inventory
-Add to Inventory
-Add New Product
-End Session
+![Table Image](/images/bamazonManagerMenu.JPG)
 
 The first four use various queries to the MySQL database to perform functions.   View products for sale is a simple query.  View low inventory is a query with a where statement to see allt he product with a stock quantity less than 5.  Add to inventory allows you to select a product and then tell it how many more units to add to the inventory.  Add new product allows you to insert a new product into the database by giving it the item name, department, price and stock quantity to add.  When you are done with the manager view you can end your session using End Session.
 
@@ -40,8 +36,7 @@ The first four use various queries to the MySQL database to perform functions.  
 ### Description:  
 The Bamazon Supervisor view starts by displaying a menu that contains the following items: 
 
-View Product Sales by Department
-Create New Department
+![Table Image](/images/BamazonSupervisorMenu.JPG)
 
 View Product Sales by Department utilizes a SQL Select statement that uses the group by command and an inner join to combine the departments and product tables to provide a concise table view of total profit by department.  This table is logged to the console using the Cli-Table node.js package.  Example:
 
