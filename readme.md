@@ -5,6 +5,7 @@ MySQL, Javascript, Node.js (node packages: MySQL, Inquirer, Cli-Table)
 All
 
 #   Video of Functionality:
+https://drive.google.com/file/d/18o818UVRMsX4Sqc1oPOiwFoj7LS-DuXn/view
 
 #   Application Purpose: 
 This app uses Node.js and MySQL to create three user interfaces for a simulated store including warehouse quantities and profit.  In order to run this app, you must set up a database in MySQL titled bamazon with a table named products and a table named departments.  You would also need to run an npm install to install the necessary node packages that are listed in the package.json file.
